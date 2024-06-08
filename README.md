@@ -17,7 +17,7 @@ Welcome to the **React Admin Dashboard App** repository! This project is a compr
 
 ## Demo
 
-Check out the live demo [here](#https://react-dashboard-celebal.vercel.app/).
+Check out the live demo [here](https://react-dashboard-celebal.vercel.app/).
 
 ## Installation
 
